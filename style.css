@@ -1,4 +1,5 @@
 /* Write Your CSS Below 
+bod
 Colors: 
 - rgb(243, 183, 106)
 - yellow
@@ -27,3 +28,19 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+body {
+  background-color: #f3f3f3;
+  font-family: Copperplate;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+#jordans-1,
+#jordans-2 {
+  width: 600px;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+}
